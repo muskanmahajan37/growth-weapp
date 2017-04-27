@@ -1,6 +1,3 @@
-<!--index.wxml-->
-<view class="container">
-  <view  bindtap="bindViewTap" class="userinfo">
-   
-  </view>
-</view>
+<scroll-view scroll-x="true" class="skill-tree-section">
+  <image class="skill-tree" src="../../images/skill-tree.svg" mode="aspectFill"></image>
+</scroll-view>
